@@ -226,3 +226,10 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python,PyCharm,JupyterNotebooks
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/NIST-PRIMES.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
