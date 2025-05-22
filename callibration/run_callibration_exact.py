@@ -1,6 +1,7 @@
 import numpy as np
 import scipy as sp
 
+
 def aproximate_entropy_params(primes_sample):
     return 0
 def bin_matrix_params(primes_sample):
